@@ -1,70 +1,21 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![WGWG ppt_page-0001](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/6a4bb8a1-0576-42fc-bd4b-ed2fd36bff74)
+![WGWG ppt_page-0002](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/e5cb9f83-0568-4372-9b53-11c61dc39268)
+![WGWG ppt_page-0003](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/6475835f-6b64-450e-9401-92cb72ecd0fb)
+![WGWG ppt_page-0004](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/7c4f70b1-89b7-4b91-b198-1a8c263dff73)
+![WGWG ppt_page-0005](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/5b4c1bf2-c0ac-44d7-a4b5-64be093c1bc5)
+![WGWG ppt_page-0006](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/018f7aee-6178-4cc7-93dd-325070387fde)
+![WGWG ppt_page-0007](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/057f4005-20bf-482b-941e-c61627160322)
+![WGWG ppt_page-0008](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/6c820394-cce8-48f2-ab47-3a064babf4e6)
+![WGWG ppt_page-0009](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/fe8455fe-3792-4969-8836-449e86ff9a50)
+![WGWG ppt_page-0010](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/ec6c76f2-c9d9-43a0-9305-fcfb8d5cc087)
+![WGWG ppt_page-0011](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/24798ae6-1ddf-46e3-bd96-7c375f3d97df)
+![WGWG ppt_page-0012](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/85c103c2-0991-4752-b51f-f998e1f9a6fa)
+![WGWG ppt_page-0013](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/83a34864-622d-44b8-9cbf-f69c7f33315c)
+![WGWG ppt_page-0014](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/d977d199-53d0-41db-881f-9c58d2706416)
+![WGWG ppt_page-0015](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/f2850623-bb06-4c39-a9ed-15afa4221b31)
+![WGWG ppt_page-0016](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/976e195a-c336-480e-be03-dde91a9314aa)
+![WGWG ppt_page-0017](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/b7162d88-169f-4b3f-9dc3-c74ee1bf3f1a)
+![WGWG ppt_page-0018](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/6b6edad8-fcf5-4766-a980-2e58d59d33c2)
+![WGWG ppt_page-0019](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/9ce9f890-40ee-43e0-a9f4-2f98e319ed47)
+![WGWG ppt_page-0020](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/32fb7699-9d3b-4d26-a9d1-af775b3ccf1a)
+![WGWG ppt_page-0021](https://github.com/JonghanJeon/WGWG_FRONT/assets/117141827/247a7507-bdb5-4837-b5b8-3d2e0a351fd4)
